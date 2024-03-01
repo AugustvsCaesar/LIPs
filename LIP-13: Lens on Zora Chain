@@ -1,0 +1,31 @@
+Abstract
+
+As Lens begins to open up it is important to spread the onchain identity of the platform. After much contemplation, & consternation, I have concluded that Lens should deploy on Zora Chain. 
+
+Motivation
+
+Lens is the home of the creators, and that is no secret. The Developers have come to build a platform, that is without question, the best place for creators. How does Lens grow even after LIP-5? Going to where the creators are so Zora’s Creators can plug directly into the Lens Platform and increase the surface area of their already growing markets. 
+
+Specification
+
+This proposal would lead to the deployment of Lens to Zora Chain. 
+
+1. Zora Ecosystem
+
+Zora is a Stage 0 Optimistic Rollup which uses Optimism’s OP Stack. It has a rolling 30 Day txn count of 1.90 M with an average TPS of 1.12. The Total Value Locked is 14.38 Million. Ether (~ 4,900 ETH near ATH) is the only asset on Zora chain and the only asset for Collecting NFTs. 
+
+2. Lens x Zora
+
+Zora is by nature a place for creators to leverage visual media, from videos to photos, to art. The ability to natively mint on Zora from Lens & vice versa would increase the eyes for both protocols. 
+
+3. Costs
+
+Zora is very cheap currently but we mustn’t forget the EIP-4844 is looking to reduce fees on Layer 2’s very soon. 
+
+4. Momoka
+
+If at all possible, and if needed, a momoka like solution could be deployed to Zora in the future as well. 
+
+Conclusion
+
+If you vote yes on this proposal, Lens Protocol will deploy natively to Zora Chain. If no, Lens will not deploy onto Zora Chain
